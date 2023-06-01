@@ -1,0 +1,13 @@
+*{
+
+}
+
+body{
+    background-image: url(/img/survey-form-background.jpeg);
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    color: white;
+}
